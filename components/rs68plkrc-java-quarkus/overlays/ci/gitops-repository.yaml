@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rs68plkrc-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/rs68plkrc-java-quarkus-gitops
